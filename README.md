@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.jpg" width="300" alt="Walk Talk Meditate" />
-</p>
-
 # Walk Talk Meditate
 
 An open-source framework and app for contemplative walking practice.

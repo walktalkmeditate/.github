@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" width="300" alt="Walk Talk Meditate" />
+  <img src="../logo.jpg" width="300" alt="Walk Talk Meditate" />
 </p>
 
 # Walk Talk Meditate
